@@ -20,6 +20,8 @@ The audit request required the following items:
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
 
+![Final_Election_Results.png](https://github.com/jjpardue/Election_Analysis/blob/07727c1b7341144aa5b1eb7fa73a03acb4fbcc9a/Resources/Final_Election_Results.png)
+
 * Total number votes were cast in this congressional election:
     - Total Votes: 369,711
    
@@ -39,7 +41,12 @@ The audit request required the following items:
  
  
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 With 73.8% of the popular vote (272,892 total votes), the winner of this election was Diana DeGette.
 
 ## Election-Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The script written to provide the above analysis is just scratching the surface.
+
+The code is easy to understand and workable should another election committee need to garner voter turn out in greater detail. For example, this project returned three basic categories for analysis: 1.) Ballot ID, 2.) County and 3.) Candidate. Should one desire to gain more insight on *where* votes are coming from or *who* is voting, we could edit the code to include city, city population, voter pronouns, income, etc.
+
+We strongly recommend visiting our firm in the future for such election analyses due to the pure and humble fact that we are, simply stated, the best. XO
